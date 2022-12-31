@@ -3,4 +3,4 @@ Esta es la historia de Daniel Martel.
 Daniel tiene 20 años y nació en Perú, 
 vivo en Lima.
 
-Ahora estoy aprendiendo Git y Net Core.
+Ahora estoy aprendiendo Git, JavaScript y Net Core.
