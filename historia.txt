@@ -1,5 +1,6 @@
 Esta es la historia de Daniel Martel.
 
-Daniel tiene 20 años y vive en Perú.
+Daniel tiene 20 años y nació en Perú, 
+vivo en Lima.
 
 Ahora estoy aprendiendo Git.
