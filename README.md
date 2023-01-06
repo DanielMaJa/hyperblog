@@ -7,3 +7,4 @@ Terrible un mono 🐒
 
 * Creado por Daniel
 * Incluye un pequeño diseño en CSS
+* Disponible para todas las edades
