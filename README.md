@@ -6,3 +6,4 @@ Terrible un mono 🐒
 <img src="https://i.imgur.com/HiPqojN.jpg" width="400">
 
 * Creado por Daniel
+* Incluye un pequeño diseño en CSS
